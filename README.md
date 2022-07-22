@@ -1,1 +1,1 @@
-# Practicas_Curso
+#PRACTICAS_CURSO
